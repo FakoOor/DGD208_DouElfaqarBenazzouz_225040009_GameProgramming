@@ -1,0 +1,6 @@
+Game Started
+level
+solve
+solve
+quit
+Game Ended
